@@ -68,5 +68,46 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Spider-Man: No Way Home",
+            "iscore": 8.2,
+            "rating": "PG-13",
+            "runtime": 148,
+            "released": [2021, 12, 17],
+            "country": "USA",
+            "posters": ["img/nowayhome.jpg", "img/nowayhome2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt10872600/",
+            "website": "https://www.sonypictures.com/movies/spidermannowayhome",
+            "likes": 17532,
+            "dislikes": 57,
+            "posterindex": 0
+      },
+      {
+            "title": "The Batman",
+            "iscore": 7.8,
+            "rating": "PG-13",
+            "runtime": 176,
+            "released": [2022, 3, 1],
+            "country": "USA",
+            "posters": ["img/thebatman.jpg", "img/thebatman2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1877830",
+            "website": "https://www.thebatman.com/",
+            "likes": 12436,
+            "dislikes": 235,
+            "posterindex": 0
+      },{
+            "title": "Star Wars: Revenge of The Sith",
+            "iscore": 7.6,
+            "rating": "PG-13",
+            "runtime": 140,
+            "released": [2005, 5, 19],
+            "country": "USA",
+            "posters": ["img/rots.jpg", "img/rots2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0121766",
+            "website": "https://www.lucasfilm.com/productions/episode-iii/",
+            "likes": 8100000000,
+            "dislikes": 0,
+            "posterindex": 0
       }
 ]
